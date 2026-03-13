@@ -1,36 +1,43 @@
-# AWS Labs: Inovação, IA Generativa e Experimentação
+# AWS Labs: Inovacao, IA Generativa e Experimentacao
 
 ---
 
-## Sobre o Repositório
-Este repositório é destinado à documentação de experimentos avançados e laboratórios de aprofundamento técnico no ecossistema **Amazon Web Services**. Diferente da base fundamental, este espaço foca em tecnologias emergentes, com ênfase especial em **IA Generativa (Amazon Bedrock)** e ferramentas de produtividade inteligente como o **Amazon Q**.
+## Sobre o Repositorio
+Este repositorio e destinado a documentacao de experimentos avancados e laboratorios de aprofundamento tecnico no ecossistema Amazon Web Services. Diferente da base fundamental, este espaco foca em tecnologias emergentes, com enfase especial em IA Generativa (Amazon Bedrock) e ferramentas de produtividade inteligente como o Amazon Q.
 
 ---
 
-## Trilhas de Exploração e Aprendizado
+## Trilhas de Exploracao e Aprendizado
 
-### Inteligência Artificial Generativa
-- **Amazon Bedrock:** Experimentação com modelos de fundação (Titan, Claude, Llama 3) para criação de aplicações inteligentes.
-- **Amazon Q:** Uso da IA para otimização de código, debugging e automação de fluxos de trabalho.
-- **SageMaker:** Exploração de ciclos de vida de modelos de Machine Learning e processamento de dados.
+### Inteligencia Artificial Generativa
+- **Amazon Bedrock:** Experimentacao com modelos de fundacao (Titan, Claude, Llama 3) para criacao de aplicacoes inteligentes.
+- **Amazon Q:** Uso da IA para otimizacao de codigo, debugging e automacao de fluxos de trabalho.
+- **SageMaker:** Exploracao de ciclos de vida de modelos de Machine Learning e processamento de dados.
 
-### Automação e Serverless Avançado
-- **Step Functions:** Orquestração de workflows complexos entre múltiplos serviços AWS.
-- **Lambda & EventBridge:** Arquiteturas orientadas a eventos para automação reativa.
-- **Infrastructure as Code (IaC):** Práticas iniciais com CloudFormation para deploy reprodutível de labs.
+### Automacao e Serverless Avancado
+- **Step Functions:** Orquestracao de workflows complexos entre multiplos servicos AWS.
+- **Lambda & EventBridge:** Arquiteturas orientadas a eventos para automacao reativa.
+- **Infrastructure as Code (IaC):** Praticas iniciais com CloudFormation para deploy reprodutivel de labs.
 
 ### SimuLearn & Skill Builder
-- **SimuLearn Generative AI:** Registro de progresso e laboratórios realizados na trilha de IA Generativa.
-- **AWS Skill Builder:** Documentação de badges de especialização e cursos de aprofundamento técnico.
+- **SimuLearn Generative AI:** Registro de progresso e laboratorios realizados na trilha de IA Generativa.
+- **AWS Skill Builder:** Documentacao de badges de especializacao e cursos de aprofundamento tecnico.
 
 ---
 
-## Estrutura de Laboratórios
-| Lab | Tecnologia | Status |
+## Certificacoes em Foco
+Este repositorio serve como laboratorio pratico para as proximas metas do meu PDI:
+- **AWS Certified Solutions Architect – Associate** (Planejada)
+- **AWS Certified AI Practitioner** (Planejada)
+
+---
+
+## Organizacao dos Labs
+| Lab | Tecnologia | Objetivo |
 | :--- | :--- | :--- |
-| **GenAI RAG Lab** | Bedrock, Kendra | Em planejamento |
-| **Serverless API** | Lambda, API Gateway | Concluído |
-| **Event-Driven Arch** | EventBridge, SQS | Em andamento |
+| **Generative AI** | Bedrock / Titan | Criacao de assistentes de compliance inteligentes. |
+| **Cloud Automation** | Python / Boto3 | Scripts avancados de gestao de recursos e custos. |
+| **Security Labs** | IAM / KMS | Testes de politicas de criptografia granuladas. |
 
 ---
 
@@ -39,5 +46,4 @@ Este repositório é destinado à documentação de experimentos avançados e la
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guinatural)
 
 ---
-
-Transformando teoria cloud em infraestrutura resiliente e inteligente.
+*Explorando as fronteiras da nuvem com curiosidade e rigor tecnico.*
